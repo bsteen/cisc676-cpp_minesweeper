@@ -1,6 +1,6 @@
+# Project 1 - Command Line Minesweeper
 # Casey Campbell, Miguel Hernandez, Benjamin Steenkamer  
-# CISC 676-010  
-# Project 1 - Command Line Minesweeper  
+# CISC 676-010    
 # 9/25/17  
 
 # Description (http://sec.prof.ninja/projects/)  
