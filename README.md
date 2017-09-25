@@ -1,9 +1,9 @@
 # Project 1 - Command Line Minesweeper
-# Casey Campbell, Miguel Hernandez, Benjamin Steenkamer  
-# CISC 676-010    
-# 9/25/17  
+## Casey Campbell, Miguel Hernandez, Benjamin Steenkamer  
+## CISC 676-010    
+## 9/25/17  
 
-# Description (http://sec.prof.ninja/projects/)  
+## Description (http://sec.prof.ninja/projects/)  
 Project 1 (ALL TEAMS BLUE): Command-Line Minesweeper. Write a function which
 consumes three arguments width height number_of_mines and generates a
 Minesweeper board internally. The board is a rectangle with a cover over each
@@ -18,7 +18,7 @@ or rec from ARR and EXP that you include and document (external to the code) you
 get 20 points. Extra levels for (first click always blank) and the ability to
 flag mines.  
 
-# Extra Credit Features  
+## Extra Credit Features  
 -A player can enter "f X Y" and flag a square. This square can't be revealed until the player un-flags it.
 To un-flag, the player enters f X Y for the already flagged square.  
 
